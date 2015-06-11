@@ -1,1 +1,0 @@
-/home/daniel/Websites/resumeyeo/package.json
